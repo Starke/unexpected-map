@@ -39,10 +39,10 @@
     "nyc": "^15.1.0",
     "offline-github-changelog": "^2.5.0",
     "prettier": "~2.7.1",
-    "unexpected": "^13.0.0",
+    "unexpected": "Starke/unexpected#master",
     "unexpected-snapshot": "^2.1.0"
   },
   "dependencies": {
-    "eslint-plugin-n": "^15.1.0"
+    "eslint-plugin-n": "^15.2.4"
   }
 }
