@@ -43,6 +43,6 @@
     "unexpected-snapshot": "^2.1.0"
   },
   "dependencies": {
-    "eslint-plugin-n": "^15.2.4"
+    "eslint-plugin-n": "^15.2.5"
   }
 }
